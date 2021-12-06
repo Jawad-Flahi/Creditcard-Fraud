@@ -1,5 +1,5 @@
 # Project Overview
-Analysis of different machine learning algorithms in detecting fraud on a roc-auc curve.<br>
+Analysis of different machine learning algorithms in detecting fraud on basis roc-auc curve.<br>
 ## Details of dataset used for the project <br>
 The data set was taken from the the kaggle . https://www.kaggle.com/mlg-ulb/creditcardfraud .<br>
 The data set was highly imblanced with class distrubtion (99.83%  and 0.17%) <br>
